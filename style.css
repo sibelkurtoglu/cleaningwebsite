@@ -1,0 +1,161 @@
+
+body {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 0;
+}
+
+
+header {
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+header h1 {
+    background-color: rgb(177, 216, 216);
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(165, 120, 120);
+    text-align: center;
+}
+main {
+    background-color: transparent;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:baseline;
+    
+}
+
+
+main {
+    background-color: rgb(187, 224, 187);
+    width: 100%;
+    border: 0px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+.main-slogan {
+    background-color: rgb(172, 146, 146);
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+}
+
+button {
+    background-color: #333;
+    color:black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.main-img {
+    
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    background-color: rgb(228, 228, 91);
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(93, 86, 86);
+    text-align: center;
+    margin-bottom: 20px;
+}
+.our-product{
+    background-color: rgb(172, 163, 163);
+    border: 1px solid rgb(41, 39, 39);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+fieldset {
+    background-color: rgb(231, 221, 221);
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+fieldset legend {
+    background-color: rgb(226, 151, 226);
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(233, 7, 7);
+    margin-bottom: 10px;
+}
+
+fieldset button {
+    
+    background-color: rgb(235, 232, 244);
+    color: rgb(182, 162, 162);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+
+fieldset img {
+    width: 30%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: rgb(169, 165, 165);
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer h3 {
+background-color: rgb(168, 139, 139);
+font-size: 24px;
+font-weight: bold;
+color: #333;
+text-align: center;
+}
+
+
+footer ul {
+background-color: rgb(128, 128, 128);
+list-style-type: none;
+text-align: center;
+margin-top: 10px;
+}
+
+footer ul li {
+background-color: turquoise;
+font-size: 18px;
+color: #333;
+margin-bottom: 10px;
+}
+
+
+video {
+width: 300px;
+border-radius: 10px;
+margin-top: 20px;
+}
+
+iframe {
+width: 560px;
+height: 315px;
+border-radius: 10px;
+margin-top: 20px;
+}
